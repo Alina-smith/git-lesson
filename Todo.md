@@ -5,3 +5,5 @@
 - Push them to github
 - Review the changes online
 - Make some changes online
+- Stage and commit changes online
+- - Pull the changes from the remote origin to our local repository
